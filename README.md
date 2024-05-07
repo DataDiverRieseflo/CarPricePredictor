@@ -1,6 +1,6 @@
 # Car price predictor
 
-This python project uses spider crawler to get data of cars on the secondhandmarket from tutti.ch. With this data a machine learning model is trained and then combined with a webpage which allows users to predict an estimate of the price, for which their car is currently being sold on the secondary market.
+This python project uses spider crawler to get data of cars on the second-hand market from tutti.ch. With this data a machine learning model is trained and then combined with a webpage which allows users to predict an estimate of the price, for which their car is currently being sold on the secondary market.
 
 ## Spider
 
